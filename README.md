@@ -46,6 +46,7 @@
 
 Вычисленная хеш-сумма совпадает с заявленной составителем? - Файл подлинный!
 
+	SHA-1 файла LICENSE.TXT: 2449ED292A0611AF119CE94497DB93E9641179AB
 	SHA-1 файла base_book.odt: 0344235FAB2C624B2B651F3EF5A7E951433EFFCC
 	SHA-1 файла "Appendix A. About Windows.ods": CDBA87A54807C6031D152E05E856343D273478E0
 
